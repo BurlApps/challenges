@@ -30,5 +30,7 @@ Look forward to your submission!
 # Tutorials (In Order)
 
 HTML, CSS: http://www.codecademy.com/en/tracks/web
+
 Javascript: http://www.codecademy.com/tracks/javascript
+
 JQuery: http://www.codecademy.com/tracks/jquery
